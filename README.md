@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mehar!
 
-<!--
-**meharkaur01/meharkaur01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer from India 🇮🇳  
+Currently learning Python and building real-world projects to prepare for college in Canada.
 
-Here are some ideas to get you started:
+### 🚀 My Goals
+- 🎓 Study Computer Systems Technology at BCIT (Fall 2026)
+- 💻 Become a skilled backend/software engineer
+- 🌎 Build a career in tech & settle in British Columbia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects So Far
+- ✅ [To-Do List App](https://github.com/meharkaur01/Todo-app)
+- ✅ [Calculator App](https://github.com/meharkaur01/calculator-app)
+
+### 🌱 Learning Now
+- Python fundamentals
+- Git + GitHub
+- Writing clean, beginner-friendly code
