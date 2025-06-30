@@ -1,6 +1,6 @@
 # Hi, I'm Mehar!
 
-I'm an aspiring software developer from India 🇮🇳  
+I'm an aspiring software developer from India 
 Currently learning Python and building real-world projects to prepare for college in Canada.
 
 ### 🚀 My Goals
